@@ -19,6 +19,6 @@
 #
 ---
 include:
-  - board: esp32c3_devkitm
+
   - board: corneish_zen_v1_left
   - board: corneish_zen_v1_right
